@@ -86,6 +86,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This is a simple movie search app. User could type movie keyword to search for movie information.
+It has already deployed via Heroku. --> https://simple-movie-search.herokuapp.com/
 
 <!-- Use the `BLANK_README.md` to get started. -->
 
